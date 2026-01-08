@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Preetam 👋</h1>
 
 <p align="center">
-  PyTorch contributor • ML Systems • Multimodal AI (VLMs) • Docs & DevTools • IR/Search
+  PyTorch contributor • ML Systems • Multimodal AI (VLMs) • Docs & DevTools • OSS
 </p>
 
 <p align="center">
