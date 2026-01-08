@@ -24,8 +24,7 @@
 - 🎓 M.Tech (Data Science) @ IIT Roorkee • UG @ IIT Gandhinagar
 - 🧠 I build compute-efficient **multimodal/VLM pipelines** in **PyTorch** (fusion, eval, robustness)
 - 🧪 I care about **VLM evaluation & reliability** (clean vs attacked benchmarks, inference-time behavior)
-- 🔍 Strong interest in **Information Retrieval / Search** + LLM/VLM system design & evaluation
-- 🛠️ I value **developer experience**: crisp docs, reliable CI, tooling, and root-cause fixes
+- 🛠️ Open Source Contributor: HuggingFace Transformer(155k stars)
 - 🌐 I’ve shipped production software too: **React/Next.js + AWS + data pipelines** (ETL, DB performance)
 
 ---
