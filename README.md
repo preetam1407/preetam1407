@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://preetam1407.github.io/">
+    <img alt="CV" src="https://img.shields.io/badge/CV-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome">
+  </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
@@ -17,6 +20,7 @@
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=preetam1407&style=for-the-badge">
 </p>
+
 
 ---
 
