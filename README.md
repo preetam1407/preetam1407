@@ -12,7 +12,7 @@
   <a href="https://preetam1407.github.io/">
     <img alt="CV" src="https://img.shields.io/badge/CV-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="www.linkedin.com/in/preetam-chhimpa">
+  <a href="https://www.linkedin.com/in/preetam-chhimpa/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:YOUR_EMAIL">
